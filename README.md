@@ -7,6 +7,12 @@ I'm Maciej Kobus 🤓, known as **webhdx** on the interwebs. I've been devoted t
 * Symfony framework
 * Ibexa DXP (formerly eZ Platform)
 
+## 🆒 Cool hardware stuff I'm working on
+* **PicoBoot** - open source IPL replacement modchip for GameCube using Raspberry Pi Pico,
+* **M.2 Loader** - SSD adapter for Nintendo GameCube,
+* **Radiobird** (codename) - replacement Wavebird (GameCube wireless controller) receiver,
+* **WiiMini-SDRST** - open hardware modification for Wii Mini console adding microSD card slot and reset button,
+
 ## 👍 Do you like my work?
 It's getting more and more difficult for me to find time for hobby projects. If you'd like to support my work consider becoming a sponsor 💵 here on GitHub or buy from my Tindie store: https://www.tindie.com/webhdx
 
