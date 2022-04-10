@@ -13,5 +13,3 @@ It's getting more and more difficult for me to find time for hobby projects. If 
 ## 🤝 Wanna stay in touch? 
 * **@webhdx** on Twitter
 * **webhdx#7490** on Discord
-* I read and post on **r/GameCube**
-* 24/7 on #gc-forever (EFnet)
