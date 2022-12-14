@@ -9,9 +9,9 @@ I'm Maciej Kobus 🤓, known as **webhdx** on the interwebs. I've been devoted t
 
 ## 👓 Stuff I'm currently working on
 * [PicoBoot](https://github.com/webhdx/PicoBoot) - open source IPL modchip for GameCube, some say it revolutionized GC scene 😅
+* [WiiMini-SDRST](https://github.com/webhdx/WiiMini-SDRST) - easy to install kit for Wii Mini restoring microSD card slot and reset button
 * M.2 Loader - upcoming M.2 SSD adapter for GameCube
 * Aftermarket Wavebird receiver
-* WiiMini-SDRST - easy to install kit for Wii Mini restoring microSD card slot and reset button
 
 ## 🤝 Wanna stay in touch? 
 * **@webhdx** on Twitter
