@@ -7,11 +7,10 @@ I'm Maciej Kobus 🤓, known as **webhdx** on the interwebs. I've been devoted t
 * Symfony framework
 * Ibexa DXP (formerly eZ Platform)
 
-## 👓 Stuff I'm currently working on
-* [PicoBoot](https://github.com/webhdx/PicoBoot) - open source IPL modchip for GameCube, some say it revolutionized GC scene 😅
+## 👓 My retro gaming projects
+* [PicoBoot](https://github.com/webhdx/PicoBoot) - open source IPL modchip for GameCube, some say it revolutionized the GC scene 😅
 * [WiiMini-SDRST](https://github.com/webhdx/WiiMini-SDRST) - easy to install kit for Wii Mini restoring microSD card slot and reset button
-* M.2 Loader - upcoming M.2 SSD adapter for GameCube
-* Aftermarket Wavebird receiver
+* [ETH2GC](https://github.com/webhdx/ETH2GC) - cheap, aftermarket solution to add network capabilities to the GameCube
 
 ## 🤝 Wanna stay in touch? 
 * **@webhdx** on Twitter
