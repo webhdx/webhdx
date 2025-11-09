@@ -17,4 +17,4 @@ I'm Maciej Kobus 🤓, known as **webhdx** on the interwebs. I've been devoted t
 * **@webhdx** on Discord
 
 ## 🗣️ Join my Discord Server
-[![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
+[![](https://dcbadge.limes.pink/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
